@@ -22,7 +22,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/1200px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" alt="Excel" width="70"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="70"/>
+   <img src="https://w1.pngwing.com/pngs/835/530/png-transparent-python-logo-programming-language-computer-programming-python-programming-basics-for-absolute-beginners-scripting-language-source-code-php-code-climate-inc.png" alt="Python" width="70"/>
 </p>
 
 
