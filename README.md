@@ -4,7 +4,7 @@
 
 **Data Analyst   |   BI Developer**
 
-### About Me
+## About Me
 
 **Hey there ! 👋🏻** 
 **I’m Ajay Pawan**
