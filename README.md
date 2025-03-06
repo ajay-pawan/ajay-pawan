@@ -18,7 +18,7 @@
 <p align="left">
   <img src="https://banner2.cleanpng.com/20180708/hit/aawf0uur5.webp" alt="Power BI" width="70"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://banner2.cleanpng.com/20180526/oqt/avq6683ud.webp" alt="SQL" width="70"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfHAL9lwC3v52oaow4glc74V_u068ns3h2tg&s" alt="SQL" width="70"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/1200px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" alt="Excel" width="70"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
