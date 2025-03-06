@@ -15,7 +15,12 @@
 
 ## Tools
 
-![business-growth](https://github.com/user-attachments/assets/037e71c1-b3dc-4710-9b8b-c6a1ccdd89e9)  ![sql-server](https://github.com/user-attachments/assets/fe605247-adae-4c3a-adbe-c40524d24f59) 
+<p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_BI_logo.svg" alt="Power BI" width="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/86/Microsoft_Excel_2013-2019_logo.svg" alt="Excel" width="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL" width="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="50"/>
+</p>
 
 
 
