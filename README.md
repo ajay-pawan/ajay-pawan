@@ -7,7 +7,10 @@
 ## About Me
 
 **Hey there ! 👋🏻** 
+
 **I’m Ajay Pawan**
+
+*A passionate Data Science professional with an MSc in Data Science from Chandigarh University. I transform complex data into meaningful insights that drive business decisions. My expertise includes creating impactful visualizations, conducting in-depth analysis, and providing actionable recommendations. I'm proficient in Power BI, SQL, and Excel, specializing in data visualization, dashboarding, and reporting. My analytical mindset and problem-solving approach help me tackle challenges strategically and deliver valuable solutions. This portfolio demonstrates my ability to work with data effectively and present findings clearly and elegantly. From analyzing trends to building interactive dashboards, I'm dedicated to turning data into a powerful decision-making tool. Browse through my work to see how I've leveraged data to create impactful solutions across various domains. Let's connect and collaborate!*
 
 
 
