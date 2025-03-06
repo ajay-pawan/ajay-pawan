@@ -1,9 +1,6 @@
 
 ![Data Analyst (2)](https://github.com/user-attachments/assets/604cc99f-e7ea-4dc6-8cc3-bf2ef0bd4486)
 
-
-**Data Analyst   |   BI Developer**
-
 **MSc Data Science | Data Analyst Fresher | Specializing in BI Tools & Data Analysis | Turning Data into Actionable Insights**
 
 ## About Me
@@ -16,7 +13,11 @@
 
 
 
-## Hi there 👋
+## Tools
+
+![business-growth](https://github.com/user-attachments/assets/037e71c1-b3dc-4710-9b8b-c6a1ccdd89e9)  ![sql-server](https://github.com/user-attachments/assets/fe605247-adae-4c3a-adbe-c40524d24f59) 
+
+
 
 <!--
 **ajay-pawan/ajay-pawan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
