@@ -2,12 +2,12 @@
 ![Data Analyst (2)](https://github.com/user-attachments/assets/604cc99f-e7ea-4dc6-8cc3-bf2ef0bd4486)
 
 
-** Data Analyst   |   BI Developer
+**Data Analyst   |   BI Developer**
 
 ### About Me
 
-** Hey there ! 👋🏻 
-** I’m Ajay Pawan
+**Hey there ! 👋🏻** 
+**I’m Ajay Pawan**
 
 
 
