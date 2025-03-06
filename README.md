@@ -16,8 +16,7 @@
 ## Tools
 
 <p align="center">
-  <img src=![business-growth](https://github.com/user-attachments/assets/f068351c-5699-47a7-81d3-742d9007cc64)
- alt="Power BI" width="50"/>
+  <img src="https://github.com/user-attachments/assets/f068351c-5699-47a7-81d3-742d9007cc64" alt="Power BI" width="50"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="C:\Users\HP\Downloads\sql-server.png" alt="SQL" width="50"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
