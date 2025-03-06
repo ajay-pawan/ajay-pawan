@@ -4,6 +4,8 @@
 
 **Data Analyst   |   BI Developer**
 
+**MSc Data Science | Data Analyst Fresher | Specializing in BI Tools & Data Analysis | Turning Data into Actionable Insights**
+
 ## About Me
 
 **Hey there ! 👋🏻** 
